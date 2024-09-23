@@ -9,6 +9,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.arthurr_/?next=%2F)
 
 ![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=Art9913&show_icons=true&theme=synthwave)
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@arthursmota45853/30-nites-of-code)  
+  ![@arthursmota45853 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=arthursmota45853)
 
 ## Linguagens que estou aprendendo!💡
 
